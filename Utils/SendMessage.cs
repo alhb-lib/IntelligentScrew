@@ -10,7 +10,7 @@ namespace Utils
     {
         public static bool sendText(string text)
         {
-            return true;
+            return  true;
         }
     }
 }
