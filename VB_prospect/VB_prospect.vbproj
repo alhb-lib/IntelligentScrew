@@ -48,6 +48,12 @@
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="QSkin">
+      <HintPath>..\..\..\..\..\tools\QSkin\QSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="QSkin.Design">
+      <HintPath>..\..\..\..\..\tools\QSkin\QSkin.Design.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Deployment" />
