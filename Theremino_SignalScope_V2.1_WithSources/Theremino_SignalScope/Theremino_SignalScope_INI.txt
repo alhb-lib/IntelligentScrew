@@ -1,0 +1,31 @@
+ Program Params
+===========================================
+Form1_Top=             171
+Form1_Left=            268
+Form1_Width=           770
+Form1_Height=          511
+Form1_WindowState=     0
+Form1_Visible=         True
+Scope_Interpolate=     True
+Scope_Cursors=         False
+Scope_Cursor1=         0.476345837116241
+Scope_Cursor2=         0.926746189594269
+Scope_TriggerCh=       0
+Scope_Run=             False
+Scope_Slot1=           1
+Scope_Slot2=           -1
+Scope_Min1=            0
+Scope_Min2=            0
+Scope_Max1=            1000
+Scope_Max2=            1000
+Scope_Center1=         82.5
+Scope_Center2=         
+Scope_Units1=          0
+Scope_Units2=          0
+Scope_AC1=             False
+Scope_AC2=             False
+Scope_BaseTime=        12
+Scope_Delta=           0
+Scope_StopIf=          0
+Scope_StopTripPoint=   500
+Scope_StopAfterTimes=  0

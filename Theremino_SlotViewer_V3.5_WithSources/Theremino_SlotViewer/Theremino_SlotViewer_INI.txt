@@ -1,0 +1,18 @@
+ Program Params
+===========================================
+Form1_Top=             173
+Form1_Left=            295
+Form1_Width=           350
+Form1_Height=          278
+Form1_WindowState=     0
+
+ Slots
+===========================================
+FirstSlot=             1
+NumSlots=              10
+MaxValue=              1000
+MinValue=              0
+Colors=                0
+Vertical=              False
+Decimals=              5
+Zoom=                  11

@@ -1,0 +1,108 @@
+
+Component  Name                Param1    Param2    Param3    Param4    Param5    Param6    Param7    Param8
+-----------------------------------------------------------------------------------------------------------
+Master,    Test1,              12,       True
+Slave,     MasterPins
+Pin,       Adc_16,             1,        1000,     0,        30
+Pin,       Adc_16,             2,        1000,     0,        30
+Pin,       Adc_16,             3,        1000,     0,        30
+Pin,       Adc_16,             4,        1000,     0,        30
+Pin,       Adc_16,             5,        1000,     0,        30
+Pin,       Adc_16,             6,        1000,     0,        30
+Pin,       Unused,             7,        0,        0,        1
+Pin,       Unused,             7,        1000,     0,        30
+Pin,       Unused,             9,        0,        0,        1
+Pin,       Unused,             10,       0,        0,        1
+Pin,       Unused,             11,       0,        0,        1
+Pin,       Unused,             12,       0,        0,        1
+
+
+Component  Name                Param1    Param2    Param3    Param4    Param5    Param6    Param7    Param8
+-----------------------------------------------------------------------------------------------------------
+Master,    Theremin,           10,       True
+Slave,     MasterPins
+Pin,       Cap_8,              101,      1000,     0,        30,       20,       0
+Pin,       Cap_8,              102,      1000,     0,        30,       20,       0
+Pin,       Cap_8,              103,      1000,     0,        30,       20,       0
+Pin,       Cap_8,              104,      1000,     0,        30,       20,       0
+Pin,       Cap_8,              105,      1000,     0,        30,       40,       0
+Pin,       Cap_8,              106,      1000,     0,        30,       40,       0
+Pin,       Unused,             7,        0,        0,        0
+Pin,       Unused,             111,      1000,     0,        30
+Pin,       Unused,             9,        0,        0,        0
+Pin,       Unused,             110,      1000,     0,        30
+Pin,       Unused,             11,       0,        0,        0
+Pin,       Unused,             12,       0,        0,        0
+
+
+Component  Name                Param1    Param2    Param3    Param4    Param5    Param6    Param7    Param8
+-----------------------------------------------------------------------------------------------------------
+Master,    OilMeter,           7,        True
+Slave,     MasterPins
+Pin,       Dig_out,            801,      1000,     0,        100
+Pin,       Dig_out,            802,      1000,     0,        100
+Pin,       Adc_16,             803,      1000,     0,        30
+Pin,       Adc_16,             804,      1000,     0,        30
+Pin,       Unused,             5,        0,        0,        1
+Pin,       Unused,             6,        0,        0,        1
+Pin,       Unused,             7,        0,        0,        0
+Pin,       Unused,             8,        0,        0,        0
+Pin,       Unused,             9,        0,        0,        0
+Pin,       Unused,             10,       0,        0,        0
+Pin,       Unused,             11,       0,        0,        0
+Pin,       Unused,             12,       0,        0,        0
+
+
+Component  Name                Param1    Param2    Param3    Param4    Param5    Param6    Param7    Param8
+-----------------------------------------------------------------------------------------------------------
+Master,    Meteo,              7,        True
+Slave,     MasterPins
+Pin,       Adc_16,             821,      1000,     0,        1030
+Pin,       Unused,             822,      1,        0,        100
+Pin,       Cap_16,             823,      1000,     0,        30,       -1000,    1000
+Pin,       Unused,             824,      1,        0,        100
+Pin,       Adc_16,             825,      1000,     0,        30
+Pin,       Unused,             826,      1,        0,        100
+Pin,       Unused,             7,        0,        0,        1
+Pin,       Unused,             8,        0,        0,        1
+Pin,       Unused,             9,        0,        0,        1
+Pin,       Unused,             10,       0,        0,        1
+Pin,       Unused,             11,       0,        0,        1
+Pin,       Unused,             12,       0,        0,        1
+
+
+Component  Name                Param1    Param2    Param3    Param4    Param5    Param6    Param7    Param8
+-----------------------------------------------------------------------------------------------------------
+Master,    ThereminoArm,       7,        True
+Slave,     MasterPins
+Pin,       Unused,             201,      0,        0,        1
+Pin,       Unused,             202,      0,        0,        1
+Pin,       Unused,             203,      0,        0,        1
+Pin,       Unused,             204,      0,        0,        1
+Pin,       Unused,             205,      0,        0,        1
+Pin,       Unused,             206,      0,        0,        1
+Pin,       Unused,             7,        0,        0,        0
+Pin,       Unused,             8,        0,        0,        0
+Pin,       Unused,             9,        0,        0,        0
+Pin,       Unused,             10,       0,        0,        0
+Pin,       Unused,             11,       0,        0,        0
+Pin,       Unused,             12,       0,        0,        0
+
+
+Component  Name                Param1    Param2    Param3    Param4    Param5    Param6    Param7    Param8
+-----------------------------------------------------------------------------------------------------------
+Master,    NoName,             10,       True
+Slave,     MasterPins
+Pin,       Adc_16,             1,        1000,     0,        30
+Pin,       Adc_16,             2,        1000,     0,        30
+Pin,       Adc_16,             3,        1000,     0,        30
+Pin,       Adc_16,             4,        1000,     0,        30
+Pin,       Adc_16,             5,        1000,     0,        30
+Pin,       Adc_16,             6,        1000,     0,        30
+Pin,       Unused,             7,        0,        0,        1
+Pin,       Unused,             8,        0,        0,        1
+Pin,       Unused,             9,        0,        0,        1
+Pin,       Unused,             10,       0,        0,        1
+Pin,       Unused,             11,       0,        0,        1
+Pin,       Unused,             12,       0,        0,        1
+

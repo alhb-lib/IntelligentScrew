@@ -1,0 +1,18 @@
+' =============================================
+'  HELP for SlotNames
+' =============================================
+' If this file, called "SlotNames.txt" is present
+' in the "Theremino_HAL.exe" and "Theremino_SlotViewer.exe" folder
+' then it is used either by the HAL and the SlotViewer
+'  
+' If you are not interested to SlotNames you can:
+'  - Delete this file
+'  - Or change the name of this file
+'  - Or delete all the following lines
+'  - Or comment all the following lines
+
+' =============================================
+'  - The first field is the Slot (0 to 999)
+'  - The second field is the text
+'  - Comments are stripped out
+' =============================================

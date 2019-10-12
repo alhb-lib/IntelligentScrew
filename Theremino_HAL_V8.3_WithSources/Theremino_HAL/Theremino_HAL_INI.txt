@@ -1,0 +1,31 @@
+
+===========================================
+ Program Params
+===========================================
+Form1_Top=             206
+Form1_Left=            515
+Form1_Width=           691
+Form1_Height=          481
+Form1_WindowState=     0
+Form2_Top=             8
+Form2_Left=            1130
+Form2_Width=           528
+Form2_Height=          460
+Form2_VisibleAtStart=  False
+
+Language=              English
+Reconnect=             False
+MinChange=             30
+BeepOnErrors=          False
+Lock=                  False
+
+SelectedPinListLine=   0
+AlternatePinListLine=  0
+Scope_ShowRawCount=    False
+Scope_UnitsPerDivision=0
+Scope_ScrollSpeed=     1
+Scope_ScaleMax=        1000
+Scope_ScaleMin=        0
+
+
+CommandSlot=           0

@@ -1,0 +1,42 @@
+' =============================================
+'  HELP for SlotNames
+' =============================================
+' If this file, called "SlotNames.txt" is present
+' in the "Theremino_HAL.exe" and "Theremino_SlotViewer.exe" folder
+' then it is used either by the HAL and the SlotViewer
+'  
+' If you are not interested to SlotNames you can:
+'  - Delete this file
+'  - Or change the name of this file
+'  - Or delete all the following lines
+'  - Or comment all the following lines
+
+' =============================================
+'  - The first field is the Slot (0 to 999)
+'  - The second field is the text
+'  - Comments are stripped out
+' =============================================
+' -------------------------------------- Examples
+'1  Demo SlotNames
+'3  Edit SlotNames file
+'4  or delete it
+
+'5  Pin5
+'6  Pin6
+'7  Pin7
+'8  Pin8
+'9  Pin9
+
+' -------------------------------------- Examples
+'5 LimitInput_X      'CNC limit switch
+'6 LimitInput_Y      'CNC limit switch
+'7 LimitInput_Z      'CNC limit switch
+'8 LimitInput_A      'Screwing A limit switch (LIFTER)
+'9 LimitInput_B      'Screwing B HALL SENSOR (SCREWDRIVER)
+'10 LimitInput_C
+
+' -------------------------------------- Examples
+'11 Emergency         'Emergency switch
+'12 Pause             '-1 to disable the HW SW    29
+
+
