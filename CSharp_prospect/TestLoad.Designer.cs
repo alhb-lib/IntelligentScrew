@@ -1,6 +1,6 @@
 ﻿namespace CSharp_prospect
 {
-    partial class MainForm
+    partial class TestLoad
     {
         /// <summary>
         /// 必需的设计器变量。
@@ -37,10 +37,9 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(65, 54);
-            this.button1.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
+            this.button1.Location = new System.Drawing.Point(87, 62);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(120, 20);
+            this.button1.Size = new System.Drawing.Size(160, 23);
             this.button1.TabIndex = 0;
             this.button1.Text = "LoadHAL";
             this.button1.UseVisualStyleBackColor = true;
@@ -48,10 +47,9 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(65, 151);
-            this.button2.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
+            this.button2.Location = new System.Drawing.Point(87, 174);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(120, 20);
+            this.button2.Size = new System.Drawing.Size(160, 23);
             this.button2.TabIndex = 1;
             this.button2.Text = "LoadSlot";
             this.button2.UseVisualStyleBackColor = true;
@@ -59,10 +57,9 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(65, 237);
-            this.button3.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
+            this.button3.Location = new System.Drawing.Point(87, 273);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(120, 20);
+            this.button3.Size = new System.Drawing.Size(160, 23);
             this.button3.TabIndex = 2;
             this.button3.Text = "LoadSingal";
             this.button3.UseVisualStyleBackColor = true;
@@ -70,10 +67,9 @@
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(397, 54);
-            this.button4.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
+            this.button4.Location = new System.Drawing.Point(529, 62);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(120, 20);
+            this.button4.Size = new System.Drawing.Size(160, 23);
             this.button4.TabIndex = 3;
             this.button4.Text = "writeSLot";
             this.button4.UseVisualStyleBackColor = true;
@@ -81,23 +77,24 @@
             // 
             // slotValue
             // 
-            this.slotValue.Location = new System.Drawing.Point(283, 54);
+            this.slotValue.Location = new System.Drawing.Point(377, 62);
+            this.slotValue.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.slotValue.Name = "slotValue";
-            this.slotValue.Size = new System.Drawing.Size(100, 20);
+            this.slotValue.Size = new System.Drawing.Size(132, 25);
             this.slotValue.TabIndex = 4;
             // 
-            // MainForm
+            // TestLoad
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(600, 390);
+            this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.slotValue);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
-            this.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
-            this.Name = "MainForm";
+            this.IsMdiContainer = true;
+            this.Name = "TestLoad";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.MainForm_Load);
             this.ResumeLayout(false);

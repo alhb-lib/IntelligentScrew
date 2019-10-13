@@ -11,9 +11,9 @@ using Theremino_HAL;
 
 namespace CSharp_prospect
 {
-    public partial class MainForm : Form
+    public partial class TestLoad : Form
     {
-        public MainForm()
+        public TestLoad()
         {
             InitializeComponent();
         }
