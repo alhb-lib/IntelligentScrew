@@ -16,7 +16,7 @@ namespace CSharp_prospect
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Main());
+            Application.Run(new TestLoad());
         }
     }
 }

@@ -7,7 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Theremino_HAL; 
+using Theremino_HAL;
+using TestStandard;
 
 namespace CSharp_prospect
 {
@@ -46,6 +47,17 @@ namespace CSharp_prospect
             float slotValue = float.Parse( this.slotValue.Text);
             MessageBox.Show(slotValue.ToString());
             thereminoSlots.WriteSlot(1, slotValue);  
+        }
+
+        private void Button5_Click(object sender, EventArgs e)
+        {
+            User user = new User();
+            user.username = "test";
+            user.password = "123";
+            ContetxHelp ch = new ContetxHelp();
+            int count = ch.Add(user);
+            MessageBox.Show(Convert.ToString(count));
+
         }
     }
 }
